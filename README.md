@@ -27,5 +27,9 @@ Once completed the access, the user can return to the Home Page and press the el
 
 In addition, through the Drawer the user can access the alcoolPage, in which all the data regarding the alcool assumption (that can be add in the addAlcool page) are displayed. By tapping on the various insertions, the user is able to update or remove those specific elements.
 
+## Important
+
+We were not able to commit the build and ios directories that are part of the flutter project, because of issues related to the excessive size of some data (even if we try to upload them separatly). 
+
 Finally, by accessing through the drawer the daily monitoring page we can visualize the charts displaying the informations about the trend of average HR and the mass amount of alcohol consumed during the day.
 The above mentioned data are applied in order to gain a quantitative description of the behaviour of the user which is later evaluated by the application togheter with the user's number of steps acquired from the data server (related to the same day).
